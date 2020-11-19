@@ -1,5 +1,5 @@
 # Clean-and-simple-website
-First Task given to by DevCareer and Progate.
+First Task given by DevCareer and Progate.
 A simple mock up webpage used to sharpen my CSS skills and improve real life working experience.
 
 ## Technologies
