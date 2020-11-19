@@ -1,12 +1,12 @@
-# clean-and-simple-website
+# Clean-and-simple-website
 First Task given to by DevCareer and Progate.
 A simple mock up webpage used to sharpen my CSS skills and improve real life working experience.
 
-# Technologies
+## Technologies
 -HTML5
 -CSS3
 
-# Contribution
+## Contribution
 Pull requests are welcome!
 
 ## Contact
